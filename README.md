@@ -7,7 +7,7 @@ Here I will sharing my networking projects which will be focusing on network sec
 
 # Installation
 
-To run these project files Cisco Packet Tracer must be installed, it can be installed from the official Cisco Networking Academy page using this link https://www.netacad.com/cisco-packet-tracer. Once Packet Tracer has been installed, download the desired project .pkt file and open it on Packet Tracer, then explore the project.
+To run these project files Cisco Packet Tracer must be installed, it can be installed from the official Cisco Networking Academy page using this link https://www.netacad.com/resources/lab-downloads?courseLang=en-US. Once Packet Tracer has been installed, download the desired project .pkt file and open it on Packet Tracer, then explore the project.
 
 I will be providing fully configured files and detailed descriptions of the protocols used for each project. Some of these projects will include devices that have password potection, thus passwords for those devices will be provided.     
 
