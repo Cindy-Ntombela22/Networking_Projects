@@ -23,4 +23,4 @@ Designed and configured a campus network with the intention of providing secure 
 
 
 Project 3 - Capstone Project:
-Designed and configured a campus network with the intention of providing redundant connectivity between its three branches. The first branch consisted of a three-tier hierarchical design with the other branches having a collapsed core design. The branches were configured with OSPF, DHCP, STP, EtherChannel, Inter-VLAN routing and PAT between the intranet and the internet. A wireless LAN controller was configured for wireless device connectivity.
+Designed and configured a campus network with the intention of providing redundant connectivity between its three branches. The first branch consisted of a three-tier hierarchical design with the other branches having a collapsed core design. The branches were configured with ACL, OSPF, DHCP, STP, EtherChannel, Inter-VLAN routing and PAT between the intranet and the internet. A wireless LAN controller was configured for wireless device connectivity.
