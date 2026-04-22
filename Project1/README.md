@@ -1,3 +1,2 @@
-# Remote Connectivity Project 
-
-<img width="951" height="2418" alt="image" src="https://github.com/user-attachments/assets/bcc43ccd-a7fe-4409-aabb-be4fae0c315d" />
+# Remote Connectivity Project  
+<img width="986" height="2552" alt="image" src="https://github.com/user-attachments/assets/e28130dd-6bca-4f1a-be28-89573ffc846d" />
